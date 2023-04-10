@@ -1,4 +1,4 @@
-void main(){
+void main() {
   print("lists loops simple functions in dart!");
   List<String> greetings = [
     'Hello world',
@@ -11,7 +11,6 @@ void main(){
   }
 }
 
-
-void greet(String name){
+void greet(String name) {
   print("Hello, $name!");
 }
